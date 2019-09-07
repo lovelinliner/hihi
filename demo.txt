@@ -1,1 +1,3 @@
-print£¨¡®hello¡¯£©
+print('hello')
+for x in range(10)
+    print('autopep8')
